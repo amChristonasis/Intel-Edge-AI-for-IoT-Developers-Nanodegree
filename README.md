@@ -1,5 +1,5 @@
 # Intel-Edge-AI-for-IOT-Developers-Nanodegree
-Projects conducted as part of the Intel Edge AI for IOT Developers Nanodegree by Udacity.\
+Projects conducted as part of the Intel Edge AI for IoT Developers Nanodegree by Udacity.
 
 The program is focused in developing AI computer vision inference application in the Edge using the Intel Distribution of OpenVino toolkit.
 
