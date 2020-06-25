@@ -1,5 +1,5 @@
 # Computer Pointer Controller
-In this project I create an app using the Intel Distribution of OpenVino that controls the mouse pointer using a video or camera as input.
+In this project, I create an app using the Intel Distribution of OpenVino that controls the mouse pointer using a video or camera as input.
 The inference pipeline makes use of three different pretrained models, one for Face Detection, another for Facial Landmarks Detection, another for Head Pose Estimation, and yet another for Gaze Estimation, that takes as input the ouputs of the previous three models.
 
 ## Project Set Up and Installation
