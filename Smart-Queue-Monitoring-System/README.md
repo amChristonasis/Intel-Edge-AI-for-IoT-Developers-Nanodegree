@@ -1,4 +1,4 @@
-# Smart-Queue-Monitoring-System
+# Smart Queue Monitoring System
 Second project for the Intel Edge AI for IoT Developers Nanodegree from Udacity
 
 The purpose of this project was to suggest the right hardware for a queue monitoring system based on cameras for three different real-world hypothetical scenarios.
