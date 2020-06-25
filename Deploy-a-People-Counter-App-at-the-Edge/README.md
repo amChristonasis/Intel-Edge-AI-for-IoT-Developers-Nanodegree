@@ -6,7 +6,7 @@
 
 ![people-counter-python](./images/people-counter-image.png)
 
-This is my solution to the first project of the Intel Edge AI for IOT Developers Nanodegree by Udacity. More information can be found in the WRITEUP.
+This is my solution to the first project of the Intel Edge AI for IoT Developers Nanodegree by Udacity. More information can be found in the WRITEUP.
 
 ## What it Does
 
